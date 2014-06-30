@@ -1,0 +1,2 @@
+open thispatcher
+include appicon  work:/Users/reno/Dropbox/ola-osc/ola-osc.icns
