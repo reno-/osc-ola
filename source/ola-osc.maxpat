@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 83.0, 56.0, 436.0, 451.0 ],
+		"rect" : [ 20.0, 51.0, 436.0, 451.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -68,7 +68,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 32.0, 40.0, 69.0, 20.0 ],
+					"patching_rect" : [ 48.0, 47.0, 69.0, 20.0 ],
 					"saved_object_attributes" : 					{
 						"allwindowsactive" : 0,
 						"audiosupport" : 0,
@@ -1054,7 +1054,7 @@
 					"patching_rect" : [ 130.666672, 191.5, 73.0, 24.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 162.5, 9.5, 106.0, 21.0 ],
-					"text" : "10.0.0.5"
+					"text" : "127.0.0.1"
 				}
 
 			}
@@ -1098,7 +1098,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 187.0, 40.0, 71.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 17.0, 71.0, 404.0, 365.0 ],
+					"presentation_rect" : [ 17.0, 71.0, 404.0, 367.0 ],
 					"setminmax" : [ 0.0, 255.0 ],
 					"setstyle" : 1,
 					"settype" : 0,
@@ -1114,7 +1114,7 @@
 					"maxclass" : "panel",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 8.0, 28.5, 114.0, 46.0 ],
+					"patching_rect" : [ 24.0, 35.5, 114.0, 46.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 8.0, 4.5, 421.25, 439.0 ],
 					"rounded" : 22
@@ -1174,6 +1174,7 @@
 					"destination" : [ "obj-4", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
+					"midpoints" : [ 41.5, 377.5, 7.0, 377.5, 7.0, 30.0, 196.5, 30.0 ],
 					"source" : [ "obj-29", 0 ]
 				}
 
